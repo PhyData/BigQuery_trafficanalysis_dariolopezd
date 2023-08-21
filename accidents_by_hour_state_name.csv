@@ -1,0 +1,241 @@
+state_name,hour,num_accidents
+California,0,185
+California,1,121
+California,2,136
+California,3,94
+California,4,93
+California,5,126
+California,6,137
+California,7,90
+California,8,76
+California,9,74
+California,10,90
+California,11,74
+California,12,102
+California,13,130
+California,14,142
+California,15,122
+California,16,124
+California,17,154
+California,18,204
+California,19,171
+California,20,208
+California,21,187
+California,22,159
+California,23,124
+Florida,0,116
+Florida,1,103
+Florida,2,105
+Florida,3,97
+Florida,4,73
+Florida,5,89
+Florida,6,102
+Florida,7,76
+Florida,8,57
+Florida,9,71
+Florida,10,74
+Florida,11,87
+Florida,12,93
+Florida,13,80
+Florida,14,103
+Florida,15,122
+Florida,16,101
+Florida,17,130
+Florida,18,183
+Florida,19,167
+Florida,20,201
+Florida,21,180
+Florida,22,156
+Florida,23,133
+Georgia,0,52
+Georgia,1,42
+Georgia,2,41
+Georgia,3,39
+Georgia,4,31
+Georgia,5,46
+Georgia,6,50
+Georgia,7,57
+Georgia,8,38
+Georgia,9,29
+Georgia,10,39
+Georgia,11,57
+Georgia,12,51
+Georgia,13,51
+Georgia,14,62
+Georgia,15,80
+Georgia,16,68
+Georgia,17,66
+Georgia,18,76
+Georgia,19,81
+Georgia,20,63
+Georgia,21,86
+Georgia,22,64
+Georgia,23,60
+Illinois,0,35
+Illinois,1,35
+Illinois,2,31
+Illinois,3,24
+Illinois,4,25
+Illinois,5,38
+Illinois,6,34
+Illinois,7,38
+Illinois,8,24
+Illinois,9,26
+Illinois,10,29
+Illinois,11,27
+Illinois,12,29
+Illinois,13,61
+Illinois,14,40
+Illinois,15,51
+Illinois,16,61
+Illinois,17,50
+Illinois,18,42
+Illinois,19,50
+Illinois,20,40
+Illinois,21,34
+Illinois,22,56
+Illinois,23,34
+New York,0,42
+New York,1,42
+New York,2,27
+New York,3,30
+New York,4,23
+New York,5,37
+New York,6,40
+New York,7,31
+New York,8,34
+New York,9,38
+New York,10,39
+New York,11,51
+New York,12,27
+New York,13,47
+New York,14,56
+New York,15,49
+New York,16,52
+New York,17,79
+New York,18,49
+New York,19,68
+New York,20,52
+New York,21,57
+New York,22,47
+New York,23,44
+North Carolina,0,46
+North Carolina,1,45
+North Carolina,2,40
+North Carolina,3,39
+North Carolina,4,22
+North Carolina,5,32
+North Carolina,6,45
+North Carolina,7,50
+North Carolina,8,35
+North Carolina,9,28
+North Carolina,10,52
+North Carolina,11,54
+North Carolina,12,41
+North Carolina,13,77
+North Carolina,14,58
+North Carolina,15,70
+North Carolina,16,73
+North Carolina,17,70
+North Carolina,18,71
+North Carolina,19,81
+North Carolina,20,67
+North Carolina,21,78
+North Carolina,22,48
+North Carolina,23,53
+Ohio,0,42
+Ohio,1,31
+Ohio,2,44
+Ohio,3,40
+Ohio,4,23
+Ohio,5,26
+Ohio,6,35
+Ohio,7,32
+Ohio,8,33
+Ohio,9,23
+Ohio,10,29
+Ohio,11,45
+Ohio,12,44
+Ohio,13,48
+Ohio,14,46
+Ohio,15,57
+Ohio,16,70
+Ohio,17,59
+Ohio,18,63
+Ohio,19,45
+Ohio,20,52
+Ohio,21,58
+Ohio,22,45
+Ohio,23,39
+Pennsylvania,0,41
+Pennsylvania,1,35
+Pennsylvania,2,48
+Pennsylvania,3,38
+Pennsylvania,4,20
+Pennsylvania,5,32
+Pennsylvania,6,38
+Pennsylvania,7,36
+Pennsylvania,8,31
+Pennsylvania,9,27
+Pennsylvania,10,34
+Pennsylvania,11,49
+Pennsylvania,12,49
+Pennsylvania,13,53
+Pennsylvania,14,48
+Pennsylvania,15,72
+Pennsylvania,16,54
+Pennsylvania,17,59
+Pennsylvania,18,63
+Pennsylvania,19,59
+Pennsylvania,20,67
+Pennsylvania,21,56
+Pennsylvania,22,60
+Pennsylvania,23,33
+South Carolina,0,34
+South Carolina,1,38
+South Carolina,2,34
+South Carolina,3,25
+South Carolina,4,20
+South Carolina,5,32
+South Carolina,6,38
+South Carolina,7,27
+South Carolina,8,21
+South Carolina,9,25
+South Carolina,10,25
+South Carolina,11,26
+South Carolina,12,27
+South Carolina,13,35
+South Carolina,14,40
+South Carolina,15,44
+South Carolina,16,51
+South Carolina,17,46
+South Carolina,18,59
+South Carolina,19,59
+South Carolina,20,49
+South Carolina,21,56
+South Carolina,22,54
+South Carolina,23,46
+Texas,0,150
+Texas,1,159
+Texas,2,179
+Texas,3,89
+Texas,4,89
+Texas,5,116
+Texas,6,144
+Texas,7,126
+Texas,8,91
+Texas,9,97
+Texas,10,81
+Texas,11,76
+Texas,12,111
+Texas,13,126
+Texas,14,107
+Texas,15,132
+Texas,16,143
+Texas,17,155
+Texas,18,175
+Texas,19,166
+Texas,20,179
+Texas,21,196
+Texas,22,164
+Texas,23,139

@@ -1,0 +1,238 @@
+ownership_name,hour,num_accidents
+City or Municipal Highway Agency,0,158
+City or Municipal Highway Agency,1,151
+City or Municipal Highway Agency,2,134
+City or Municipal Highway Agency,3,92
+City or Municipal Highway Agency,4,77
+City or Municipal Highway Agency,5,78
+City or Municipal Highway Agency,6,115
+City or Municipal Highway Agency,7,94
+City or Municipal Highway Agency,8,88
+City or Municipal Highway Agency,9,94
+City or Municipal Highway Agency,10,96
+City or Municipal Highway Agency,11,112
+City or Municipal Highway Agency,12,119
+City or Municipal Highway Agency,13,130
+City or Municipal Highway Agency,14,154
+City or Municipal Highway Agency,15,165
+City or Municipal Highway Agency,16,166
+City or Municipal Highway Agency,17,202
+City or Municipal Highway Agency,18,207
+City or Municipal Highway Agency,19,199
+City or Municipal Highway Agency,20,212
+City or Municipal Highway Agency,21,197
+City or Municipal Highway Agency,22,187
+City or Municipal Highway Agency,23,163
+County Highway Agency,0,181
+County Highway Agency,1,114
+County Highway Agency,2,112
+County Highway Agency,3,81
+County Highway Agency,4,56
+County Highway Agency,5,78
+County Highway Agency,6,82
+County Highway Agency,7,122
+County Highway Agency,8,104
+County Highway Agency,9,95
+County Highway Agency,10,110
+County Highway Agency,11,123
+County Highway Agency,12,111
+County Highway Agency,13,134
+County Highway Agency,14,158
+County Highway Agency,15,181
+County Highway Agency,16,192
+County Highway Agency,17,196
+County Highway Agency,18,229
+County Highway Agency,19,211
+County Highway Agency,20,184
+County Highway Agency,21,153
+County Highway Agency,22,153
+County Highway Agency,23,135
+Not Reported,0,327
+Not Reported,1,258
+Not Reported,2,268
+Not Reported,3,163
+Not Reported,4,154
+Not Reported,5,222
+Not Reported,6,266
+Not Reported,7,236
+Not Reported,8,168
+Not Reported,9,174
+Not Reported,10,177
+Not Reported,11,166
+Not Reported,12,230
+Not Reported,13,265
+Not Reported,14,259
+Not Reported,15,270
+Not Reported,16,293
+Not Reported,17,347
+Not Reported,18,397
+Not Reported,19,362
+Not Reported,20,392
+Not Reported,21,415
+Not Reported,22,309
+Not Reported,23,270
+Other Federal Agency,0,2
+Other Federal Agency,1,2
+Other Federal Agency,2,1
+Other Federal Agency,4,1
+Other Federal Agency,5,1
+Other Federal Agency,6,3
+Other Federal Agency,7,1
+Other Federal Agency,8,5
+Other Federal Agency,9,5
+Other Federal Agency,10,3
+Other Federal Agency,11,3
+Other Federal Agency,12,2
+Other Federal Agency,14,3
+Other Federal Agency,15,3
+Other Federal Agency,16,3
+Other Federal Agency,17,3
+Other Federal Agency,18,3
+Other Federal Agency,19,2
+Other Federal Agency,20,3
+Other Federal Agency,21,3
+Other Federal Agency,22,4
+Other Local Agency,0,36
+Other Local Agency,1,28
+Other Local Agency,2,34
+Other Local Agency,3,31
+Other Local Agency,4,15
+Other Local Agency,5,22
+Other Local Agency,6,32
+Other Local Agency,7,19
+Other Local Agency,8,13
+Other Local Agency,9,18
+Other Local Agency,10,21
+Other Local Agency,11,22
+Other Local Agency,12,20
+Other Local Agency,13,20
+Other Local Agency,14,34
+Other Local Agency,15,34
+Other Local Agency,16,33
+Other Local Agency,17,44
+Other Local Agency,18,48
+Other Local Agency,19,48
+Other Local Agency,20,51
+Other Local Agency,21,46
+Other Local Agency,22,40
+Other Local Agency,23,29
+State Highway Agency,0,684
+State Highway Agency,1,578
+State Highway Agency,2,570
+State Highway Agency,3,508
+State Highway Agency,4,403
+State Highway Agency,5,536
+State Highway Agency,6,620
+State Highway Agency,7,589
+State Highway Agency,8,459
+State Highway Agency,9,514
+State Highway Agency,10,531
+State Highway Agency,11,593
+State Highway Agency,12,659
+State Highway Agency,13,707
+State Highway Agency,14,786
+State Highway Agency,15,875
+State Highway Agency,16,824
+State Highway Agency,17,893
+State Highway Agency,18,845
+State Highway Agency,19,810
+State Highway Agency,20,883
+State Highway Agency,21,846
+State Highway Agency,22,756
+State Highway Agency,23,638
+State Toll Road,0,2
+State Toll Road,1,4
+State Toll Road,2,5
+State Toll Road,3,6
+State Toll Road,4,3
+State Toll Road,5,2
+State Toll Road,6,4
+State Toll Road,7,3
+State Toll Road,8,2
+State Toll Road,9,3
+State Toll Road,10,6
+State Toll Road,11,3
+State Toll Road,12,1
+State Toll Road,13,4
+State Toll Road,14,4
+State Toll Road,15,6
+State Toll Road,16,5
+State Toll Road,17,2
+State Toll Road,18,3
+State Toll Road,19,2
+State Toll Road,20,4
+State Toll Road,21,1
+State Toll Road,22,2
+State Toll Road,23,3
+Town or Township Highway Agency,0,67
+Town or Township Highway Agency,1,42
+Town or Township Highway Agency,2,31
+Town or Township Highway Agency,3,27
+Town or Township Highway Agency,4,18
+Town or Township Highway Agency,5,23
+Town or Township Highway Agency,6,30
+Town or Township Highway Agency,7,30
+Town or Township Highway Agency,8,27
+Town or Township Highway Agency,9,27
+Town or Township Highway Agency,10,22
+Town or Township Highway Agency,11,43
+Town or Township Highway Agency,12,32
+Town or Township Highway Agency,13,47
+Town or Township Highway Agency,14,48
+Town or Township Highway Agency,15,63
+Town or Township Highway Agency,16,61
+Town or Township Highway Agency,17,72
+Town or Township Highway Agency,18,65
+Town or Township Highway Agency,19,67
+Town or Township Highway Agency,20,55
+Town or Township Highway Agency,21,56
+Town or Township Highway Agency,22,51
+Town or Township Highway Agency,23,42
+Trafficway Not in State Inventory,0,5
+Trafficway Not in State Inventory,1,6
+Trafficway Not in State Inventory,2,1
+Trafficway Not in State Inventory,3,2
+Trafficway Not in State Inventory,4,2
+Trafficway Not in State Inventory,5,4
+Trafficway Not in State Inventory,6,6
+Trafficway Not in State Inventory,7,2
+Trafficway Not in State Inventory,8,4
+Trafficway Not in State Inventory,9,5
+Trafficway Not in State Inventory,10,7
+Trafficway Not in State Inventory,11,6
+Trafficway Not in State Inventory,12,5
+Trafficway Not in State Inventory,13,5
+Trafficway Not in State Inventory,14,10
+Trafficway Not in State Inventory,15,7
+Trafficway Not in State Inventory,16,3
+Trafficway Not in State Inventory,17,13
+Trafficway Not in State Inventory,18,16
+Trafficway Not in State Inventory,19,12
+Trafficway Not in State Inventory,20,9
+Trafficway Not in State Inventory,21,7
+Trafficway Not in State Inventory,22,6
+Trafficway Not in State Inventory,23,7
+Unknown,0,39
+Unknown,1,39
+Unknown,2,40
+Unknown,3,33
+Unknown,4,20
+Unknown,5,30
+Unknown,6,42
+Unknown,7,42
+Unknown,8,34
+Unknown,9,23
+Unknown,10,44
+Unknown,11,49
+Unknown,12,39
+Unknown,13,67
+Unknown,14,49
+Unknown,15,70
+Unknown,16,62
+Unknown,17,61
+Unknown,18,70
+Unknown,19,61
+Unknown,20,65
+Unknown,21,77
+Unknown,22,42
+Unknown,23,41

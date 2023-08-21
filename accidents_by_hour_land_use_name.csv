@@ -1,0 +1,97 @@
+land_use_name,hour,num_accidents
+Not Reported,0,1
+Not Reported,2,2
+Not Reported,7,1
+Not Reported,13,1
+Not Reported,15,2
+Not Reported,21,2
+Not Reported,22,1
+Rural,0,743
+Rural,1,488
+Rural,2,452
+Rural,3,387
+Rural,4,331
+Rural,5,473
+Rural,6,609
+Rural,7,624
+Rural,8,516
+Rural,9,509
+Rural,10,561
+Rural,11,610
+Rural,12,673
+Rural,13,756
+Rural,14,842
+Rural,15,924
+Rural,16,922
+Rural,17,975
+Rural,18,922
+Rural,19,819
+Rural,20,779
+Rural,21,743
+Rural,22,638
+Rural,23,564
+Trafficway Not in State Inventory,0,5
+Trafficway Not in State Inventory,1,6
+Trafficway Not in State Inventory,2,1
+Trafficway Not in State Inventory,3,2
+Trafficway Not in State Inventory,4,2
+Trafficway Not in State Inventory,5,4
+Trafficway Not in State Inventory,6,6
+Trafficway Not in State Inventory,7,2
+Trafficway Not in State Inventory,8,4
+Trafficway Not in State Inventory,9,5
+Trafficway Not in State Inventory,10,7
+Trafficway Not in State Inventory,11,6
+Trafficway Not in State Inventory,12,5
+Trafficway Not in State Inventory,13,5
+Trafficway Not in State Inventory,14,10
+Trafficway Not in State Inventory,15,7
+Trafficway Not in State Inventory,16,3
+Trafficway Not in State Inventory,17,13
+Trafficway Not in State Inventory,18,16
+Trafficway Not in State Inventory,19,12
+Trafficway Not in State Inventory,20,9
+Trafficway Not in State Inventory,21,7
+Trafficway Not in State Inventory,22,6
+Trafficway Not in State Inventory,23,7
+Unknown,0,4
+Unknown,1,1
+Unknown,2,1
+Unknown,4,1
+Unknown,6,1
+Unknown,9,1
+Unknown,10,1
+Unknown,11,1
+Unknown,12,1
+Unknown,13,1
+Unknown,15,2
+Unknown,16,1
+Unknown,19,2
+Unknown,20,1
+Unknown,21,3
+Unknown,22,1
+Unknown,23,1
+Urban,0,761
+Urban,1,732
+Urban,2,751
+Urban,3,557
+Urban,4,417
+Urban,5,523
+Urban,6,587
+Urban,7,517
+Urban,8,390
+Urban,9,444
+Urban,10,451
+Urban,11,509
+Urban,12,543
+Urban,13,623
+Urban,14,661
+Urban,15,749
+Urban,16,724
+Urban,17,850
+Urban,18,956
+Urban,19,950
+Urban,20,1072
+Urban,21,1055
+Urban,22,909
+Urban,23,763

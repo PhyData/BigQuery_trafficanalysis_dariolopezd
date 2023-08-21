@@ -1,0 +1,121 @@
+state_name,month,drunk_drivers
+California,1,220
+California,2,245
+California,3,271
+California,4,270
+California,5,239
+California,6,254
+California,7,267
+California,8,264
+California,9,247
+California,10,288
+California,11,263
+California,12,295
+Florida,1,235
+Florida,2,169
+Florida,3,215
+Florida,4,210
+Florida,5,232
+Florida,6,220
+Florida,7,214
+Florida,8,219
+Florida,9,208
+Florida,10,241
+Florida,11,243
+Florida,12,293
+Georgia,1,102
+Georgia,2,96
+Georgia,3,115
+Georgia,4,112
+Georgia,5,103
+Georgia,6,115
+Georgia,7,95
+Georgia,8,96
+Georgia,9,129
+Georgia,10,137
+Georgia,11,101
+Georgia,12,128
+Illinois,1,51
+Illinois,2,42
+Illinois,3,63
+Illinois,4,76
+Illinois,5,86
+Illinois,6,92
+Illinois,7,89
+Illinois,8,92
+Illinois,9,81
+Illinois,10,83
+Illinois,11,70
+Illinois,12,89
+North Carolina,1,93
+North Carolina,2,74
+North Carolina,3,81
+North Carolina,4,105
+North Carolina,5,132
+North Carolina,6,109
+North Carolina,7,122
+North Carolina,8,106
+North Carolina,9,126
+North Carolina,10,100
+North Carolina,11,114
+North Carolina,12,113
+Ohio,1,80
+Ohio,2,66
+Ohio,3,50
+Ohio,4,60
+Ohio,5,102
+Ohio,6,91
+Ohio,7,95
+Ohio,8,132
+Ohio,9,93
+Ohio,10,100
+Ohio,11,75
+Ohio,12,85
+Pennsylvania,1,77
+Pennsylvania,2,68
+Pennsylvania,3,67
+Pennsylvania,4,74
+Pennsylvania,5,111
+Pennsylvania,6,89
+Pennsylvania,7,112
+Pennsylvania,8,107
+Pennsylvania,9,103
+Pennsylvania,10,101
+Pennsylvania,11,106
+Pennsylvania,12,87
+South Carolina,1,69
+South Carolina,2,60
+South Carolina,3,76
+South Carolina,4,78
+South Carolina,5,71
+South Carolina,6,75
+South Carolina,7,83
+South Carolina,8,79
+South Carolina,9,67
+South Carolina,10,110
+South Carolina,11,73
+South Carolina,12,70
+Tennessee,1,63
+Tennessee,2,49
+Tennessee,3,65
+Tennessee,4,63
+Tennessee,5,80
+Tennessee,6,73
+Tennessee,7,69
+Tennessee,8,98
+Tennessee,9,80
+Tennessee,10,81
+Tennessee,11,65
+Tennessee,12,102
+Texas,1,247
+Texas,2,215
+Texas,3,262
+Texas,4,235
+Texas,5,284
+Texas,6,264
+Texas,7,314
+Texas,8,239
+Texas,9,256
+Texas,10,319
+Texas,11,265
+Texas,12,290
